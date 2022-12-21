@@ -83,7 +83,7 @@ body{
     width: 100%;
     height: 4rem;
     background-color: #354968;
-    box-shadow: 0.2rem 0.2rem 0.5rem #555;
+    box-shadow: 0.2rem 0.2rem 0.4rem #555;
     position: absolute;
     z-index: 500;
 }
