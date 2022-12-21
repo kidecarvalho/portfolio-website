@@ -33,7 +33,7 @@ body{
     background-color: #354968;
     padding: 0 3rem;
     margin-bottom: 5rem;
-    border-bottom: 0.3rem solid#fff;
+    border-bottom: 0.4rem solid#fff;
     transform:skew(-10deg);
     text-shadow: 0.2rem 0.2rem 1rem #555;
 }
