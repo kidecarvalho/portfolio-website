@@ -20,7 +20,7 @@ body{
 .section1{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(255,255,255,.2), rgba(255,255,255,.3)), url(../images/MultipageHTML.png) center no-repeat;
+    background: linear-gradient(rgba(255,255,255,.2), rgba(255,255,255,.3)), url(..assets/images/MultipageHTML.png) center no-repeat;
     background-size: cover;
     flex-direction: column;
     
